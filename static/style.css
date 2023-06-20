@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+.error {
+    font-weight: bold;
+    color: mediumvioletred;
+}
+
+.info {
+    font-weight: bold;
+    color: darkgreen;
+}
+.navbar-brand{
+    color: white;
+    margin-left: 20px;
+}
+.navbar{
+    background-color: black;
+}
+.navbar-toggler{
+    color: white;
+}
